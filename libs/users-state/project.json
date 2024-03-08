@@ -1,0 +1,9 @@
+{
+  "name": "users-state",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/users-state/src",
+  "prefix": "enterprisey",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "notes-data",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/notes-data/src",
+  "prefix": "enterprisey",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "challenges-state",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/challenges-state/src",
+  "prefix": "enterprisey",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
